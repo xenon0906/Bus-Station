@@ -2,7 +2,7 @@
 
 The "Bus-Station Reservation System" is a comprehensive and user-friendly application developed in C. This project is the culmination of my learning as a first-year computer science student, showcasing my understanding of fundamental programming concepts and the C language. This system simplifies the process of reserving bus tickets, viewing bus schedules, and managing bookings efficiently.
 
-<b>Features and Highlights-</b>
+<b>Features and Highlights-</b><br>
 
 1. User Authentication:
    - Secure login system to ensure authorized access to the application.
@@ -36,7 +36,7 @@ The "Bus-Station Reservation System" is a comprehensive and user-friendly applic
 8. System Messages:
    - Informative messages and prompts to guide users through each step of the booking and cancellation process.
  
-<b>Technical Highlights-</b>
+<b>Technical Highlights-</b><br>
 
 - Array Usage: Efficient use of arrays to manage and store bus names, passenger details, and seat numbers.
 - String Manipulation: Proficient handling of strings for user input, file operations, and status display.
@@ -45,11 +45,11 @@ The "Bus-Station Reservation System" is a comprehensive and user-friendly applic
 - Loops: Utilization of loops for repetitive tasks like displaying bus status and managing multiple bookings.
 - User-defined Functions: Modular code design with user-defined functions for specific tasks, enhancing code readability and maintainability.
 
-<b>Learning Experience-</b>
+<b>Learning Experience-</b><br>
 
 - As a first-year student who has recently learned C programming, developing the "Bus-Station Reservation System" has been a rewarding experience. This project has not only solidified my understanding of fundamental programming concepts but also provided me with practical experience in problem-solving and software development. I have gained insights into real-world application development and the importance of writing clean, efficient, and user-friendly code.
 
-<b>Conclusion-</br>
+<b>Conclusion-</b><br>
 
 - The "Bus-Station Reservation System" is a testament to my growing proficiency in C programming and my ability to develop functional and effective software solutions. This project demonstrates my commitment to learning and my enthusiasm for creating applications that can simplify and enhance everyday tasks.
 
