@@ -28,18 +28,18 @@ Welcome to the Bus Reservation System repository! This is a console-based applic
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/bus-reservation-system.git
+   git clone https://github.com/xenon0906/Bus-Station.git
    cd bus-reservation-system
    ```
 
 2. **Compile the Program**:
    ```sh
-   gcc main.c -o bus_reservation
+   gcc main.c -o bus-station
    ```
 
 3. **Run the Program**:
    ```sh
-   ./bus_reservation
+   ./bus-station
    ```
 
 ### Usage
